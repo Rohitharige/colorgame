@@ -34,5 +34,5 @@ A fun, interactive game where you guess the color based on the displayed hex cod
 - High score tracking with local storage.  
 ### Author
 
-Created by [RohithKumar] — feel free to connect on [GitHub](https://github.com/RohithKumar).
+Created by [RohithKumar] — feel free to connect on [GitHub](https://github.com/Rohitharige).
 
